@@ -1,0 +1,8 @@
+
+.grid_containerF{
+    display: flex;
+}
+
+.grid-1{
+    flex: 1;
+}
